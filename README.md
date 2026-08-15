@@ -1,5 +1,8 @@
 # Экранчик
 
+> Written by [Claude](https://claude.com/claude-code) (Anthropic's AI, in
+> conversation with the repo owner) — not hand-coded by a human.
+
 Claude Code usage + date/USD-RUB/weather on a small USB LCD (AX206, VID
 1908:0102), driven directly from macOS over libusb — no Windows, no VM, no
 AIDA64.
